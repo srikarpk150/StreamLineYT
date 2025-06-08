@@ -1,0 +1,23 @@
+# Astro Runtime includes the following pre-installed providers packages: https://www.astronomer.io/docs/astro/runtime-image-architecture#provider-packages
+google-api-core==2.24.1
+google-api-python-client==2.160.0
+google-auth==2.38.0
+google-auth-httplib2==0.2.0
+google-auth-oauthlib==1.2.1
+python-dotenv==1.0.1
+pydantic==2.10.6
+pydantic[email]
+pydantic[email,timezone]
+polars==1.22.0
+# apache-airflow==2.10.5
+confluent-kafka==2.8.0
+asgiref==3.8.1
+# apache-airflow-providers-apache-kafka==1.7.0
+# apache-airflow-providers-apache-spark==5.0.0
+# apache-airflow-providers-apache-hive==9.0.0
+pendulum==3.0.0
+# astronomer comes with airflow
+confluent-kafka==2.8.0
+pymongo[srv]==4.11.2
+apache-airflow-providers-mongo==5.0.1
+youtube-transcript-api==0.6.3
