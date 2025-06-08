@@ -41,7 +41,7 @@ The primary objective is to perform topic modeling on streaming YouTube video da
 ### 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/bharath03-a/StrealineYT
+   git clone https://github.com/srikarpk150/StreamLineYT.git 
    ```
 
 ### 2. Set Up Environment Variables
